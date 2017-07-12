@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/3294951d965a8a098a1ad22e90dec98658df7113/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3294951d965a8a098a1ad22e90dec98658df7113/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bartoszlipinski.flippablestackview/library/1.2.1/bf149dcdca728381f45c966f613942b259ebdb38/library-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "958723104350",
+    "firebase_url": "https://recogbusinesscard.firebaseio.com",
+    "project_id": "recogbusinesscard",
+    "storage_bucket": "recogbusinesscard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958723104350:android:1b433f86a6c8077d",
+        "android_client_info": {
+          "package_name": "com.new9.recogbusinesscard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958723104350-df5ka768du8tctq9i8smvctku8crd01u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8luLhkidi86IDHDDEjq2N2nTTq2aF8WI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
